@@ -7,3 +7,5 @@
 ### Решение задания № 2 по настройке .gitignore
 Файл `.gitignore` успешно создан и настроен для игнорирования файлов `.pyc` и содержимого папки `cache`.
 [Ссылка на коммит с добавлением .gitignore](https://github.com/karatel896/Frolov-M.V./commit/bfa86fd6d5be49754c074f974db6869d47d92f68)
+### Решение задания № 3
+[Ссылка на граф коммитов репозитория](https://github.com/karatel896/Frolov-M.V./network)
